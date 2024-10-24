@@ -1,0 +1,24 @@
+_repo: Cinderella-s-prince_74625
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hurrell, Marian I.
+    gutenberg_agent_id: '57580'
+    url: http://www.gutenberg.org/2009/agents/57580
+description: ''
+gutenberg_issued: '2024-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74625'
+language: en
+pgterms:marc905: 20241004072440hurrell
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cinderella's prince
+url: http://www.gutenberg.org/ebooks/74625
