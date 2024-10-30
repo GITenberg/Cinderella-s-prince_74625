@@ -1,11 +1,16 @@
 _repo: Cinderella-s-prince_74625
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hurrell, Marian I.
     gutenberg_agent_id: '57580'
     url: http://www.gutenberg.org/2009/agents/57580
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74625#Cinderella-s-prince
 gutenberg_issued: '2024-10-22'
 gutenberg_type: Text
 identifiers:
